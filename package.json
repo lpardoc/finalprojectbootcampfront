@@ -19,7 +19,7 @@
     "@types/react-redux": "^7.1.7",
     "@types/react-stripe-elements": "^6.0.4",
     "iban": "0.0.14",
-    "immer": "^5.3.5",
+    "immer": "^9.0.6",
     "jsonwebtoken": "^8.5.1",
     "leaflet": "^1.6.0",
     "react": "^16.12.0",
